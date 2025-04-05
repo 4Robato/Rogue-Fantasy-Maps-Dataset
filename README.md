@@ -16,7 +16,7 @@ All pixel maps in this dataset are stored as `.png` image files.
 
 ## License
 
-This dataset is made available under the **Attribution 4.0 International** (CC-BY). See the `LICENSE` file for more details.
+This dataset is made available under the **Attribution 4.0 International** (CC-BY). See the `LICENSE.txt` file for more details.
 
 
 ## How to Use
@@ -26,7 +26,7 @@ This dataset is made available under the **Attribution 4.0 International** (CC-B
     git clone https://github.com/4Robato/Rogue-Fantasy-Maps-Dataset.git
     ```
 
-2.  **Choose the size of the maps:** There's 3 folders (LARGE, MEDIUM and SMALL) each containing a different map size.
+2.  **Choose the size of the maps:** There's 3 folders (LARGE, MEDIUM and SMALL) each containing a different map size files.
 
 ## Motivation
 
