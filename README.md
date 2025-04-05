@@ -12,13 +12,11 @@ The dataset is organized into three folders based on the size of the pixel maps:
 
 ## Data Format
 
-All pixel maps in this dataset are stored as **.png** image files.
+All pixel maps in this dataset are stored as `.png` image files.
 
 ## License
 
 This dataset is made available under the **Attribution 4.0 International** (CC-BY). See the `LICENSE` file for more details.
-
-## Potential Uses
 
 
 ## How to Use
@@ -28,9 +26,7 @@ This dataset is made available under the **Attribution 4.0 International** (CC-B
     git clone https://github.com/4Robato/Rogue-Fantasy-Maps-Dataset.git
     ```
 
-2.  **Navigate to the desired folder:** Choose the folder corresponding to the size of the pixel maps you need (LARGE, MEDIUM, or SMALL).
-
-3.  **Access the image files:** The `.png` files within each folder contain the generated maps.
+2.  **Choose the size of the maps:** There's 3 folders (LARGE, MEDIUM and SMALL) each containing a different map size.
 
 ## Motivation
 
@@ -42,6 +38,7 @@ So I decided to create my own dataset to practice! And I thought the community c
 ## Contact
 
 If you have any questions or feedback, feel free to contact me: renrique4@gmail.com
+
 ---
 
 Thank you for checking out this Dataset!
