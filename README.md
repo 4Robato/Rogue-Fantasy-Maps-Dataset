@@ -6,9 +6,9 @@ This repository contains a collection of pixel maps generated using a combinatio
 
 The dataset is organized into three folders based on the size of the pixel maps:
 
-* **LARGE:** (17.3 MB) Contains maps with dimensions 300x200 pixels.
-* **MEDIUM:** (5.35 MB) Contains maps with dimensions 180x120 pixels.
-* **SMALL:** (2.79 MB) Contains maps with dimensions 120x80 pixels.
+* **LARGE:** (17.3 MB) Contains 1500 maps with dimensions 300x200 pixels.
+* **MEDIUM:** (5.35 MB) Contains 1500 maps with dimensions 180x120 pixels.
+* **SMALL:** (2.79 MB) Contains 1500 maps with dimensions 120x80 pixels.
 
 ## Data Format
 
